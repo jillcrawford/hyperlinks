@@ -18,3 +18,8 @@ p, li {
 #table1 {
     color: red;
 }
+
+.lists {
+    color: darkred;
+    font-weight: bold;
+}
